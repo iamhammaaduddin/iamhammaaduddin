@@ -14,9 +14,7 @@ Welcome to my GitHub profile!
 - Python 
 
 ## 🏆 GitHub Stats
-![Your GitHub stats image]## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamhammaaduddin&show_icons=true&theme=default)
+![Your GitHub stats image](https://github-readme-stats.vercel.app/api?username=iamhammaaduddin&show_icons=true&theme=default)
 
 
 ## 📈 Top Languages

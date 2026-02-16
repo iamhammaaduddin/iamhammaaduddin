@@ -3,19 +3,18 @@
 Welcome to my GitHub profile!
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on: Nothing
-- 🌱 I’m currently learning:  C Language, Data Analysis, Gen AI
+- 🔭 I’m currently working on: Data Analysis
+- 🌱 I’m currently learning: Data Analysis
 - 👯 I’m looking to collaborate on: Data Analysis
 - 🤔 I’m looking for help with: Guidance on CSE. 
 - 📫 How to reach me: https://www.instagram.com/hammaaduddin.__
 - ⚡ Fun fact: I am hustling.
 
 ## 🚀 Skills
-- [Programming Language 1] | [Programming Language 2] | [Framework/Library]
-- [Tool] | [Technology] | [Other Skills]
+- Python 
 
 ## 🏆 GitHub Stats
-![Your GitHub stats image](https://github-readme-stats.vercel.app/api?username=iamhammaaduddin&show_icons=true&theme=radical)
+![Your GitHub stats image](https://github-readme-stats.vercel.app/api?username=iamhammaaduddin&show_icons=true)
 
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhammaaduddin&layout=compact)

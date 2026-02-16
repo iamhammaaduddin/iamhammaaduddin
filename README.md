@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently learning: Data Analysis
 - 👯 I’m looking to collaborate on: Data Analysis
 - 🤔 I’m looking for help with: Guidance on CSE. 
-- 📫 How to reach me: (https://www.instagram.com/hammaaduddin.__)
+- 📫 How to reach me: www.linkedin.com/in/hammaad-uddin
 - ⚡ Fun fact: I am hustling.
 
 ## 🚀 Skills

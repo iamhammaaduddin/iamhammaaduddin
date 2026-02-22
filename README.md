@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on: Data Analysis
+- 🔭 I’m currently working on: Data Analysis and learning Git and GitHub properly
 - 🌱 I’m currently learning: Data Analysis
 - 👯 I’m looking to collaborate on: Data Analysis
 - 🤔 I’m looking for help with: Guidance on CSE. 
